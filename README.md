@@ -1,6 +1,6 @@
 # Student Dropout & Academic Success SQL Analysis
 
-Data Source: [Kaggle — Predict Students' Dropout and Academic Success](https://www.kaggle.com/datasets/ankanhore545/dropout-or-academic-success)
+Data Source: [Kaggle — Predict Students' Dropout and Academic Success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
 
 Tools: SQL (SQLite)
 
